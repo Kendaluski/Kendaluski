@@ -1,4 +1,4 @@
-### Hi there 👋
+[![jjaen-mo's 42 stats](https://badge42.vercel.app/api/v2/clk76040t004008ldj3x1xxei/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **Kendaluski/Kendaluski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
