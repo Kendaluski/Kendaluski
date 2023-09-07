@@ -1,4 +1,4 @@
-<span align="center"> [![jjaen-mo's 42 stats](https://badge.mediaplus.ma/kettlebells/jjaen-mo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
+<span align="center" dir="auto"> [![jjaen-mo's 42 stats](https://badge.mediaplus.ma/kettlebells/jjaen-mo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
 <!--
 **Kendaluski/Kendaluski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
