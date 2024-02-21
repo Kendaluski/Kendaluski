@@ -33,7 +33,7 @@
     <td>125/100 ✅ Bonus: ✅ </td>
   </tr>
   <tr>
-    <td>Minishell w/<a href="www.githup.com/jariza-o">jariza-o</a></td>
+    <td>Minishell w/<a href="https://github.com/jariza-o">jariza-o</a></td>
     <td>96/100 ✅ Bonus: ❎ </td>
   </tr>
   <tr>
