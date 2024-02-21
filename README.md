@@ -1,6 +1,8 @@
-<style>
-  td {text-align: center;}
-</style>
+<head>
+  <style>
+    td {text-align: center;}
+  </style>
+</head>
 <span text-align="center"> [![jjaen-mo's 42 stats](https://badge.mediaplus.ma/kettlebells/jjaen-mo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
 <body text-align="center" padding="100px">
   <table>
