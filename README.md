@@ -2,43 +2,53 @@
 <table>
   <tr>
     <td>Libft</td>
-    <td>125/100 ✅ Bonus: ✅ </td>
+    <td>125/100 ✅</td>
+    <td>Bonus: ✅</td>
   </tr>
   <tr>
     <td>FT_Printf</td>
-    <td>100/100 ✅ Bonus: ❎ </td>
+    <td>100/100 ✅</td>
+    <td>Bonus: ❎</td>
   </tr>
   <tr>
     <td>Get_Next_Line</td>
-    <td>125/100 ✅ Bonus: ✅ </td>
+    <td>125/100 ✅</td>
+    <td>Bonus: ✅</td>
   </tr>
   <tr>
     <td>Born2beroot</td>
-    <td>125/100 ✅ Bonus: ✅ </td>
+    <td>125/100 ✅</td>
+    <td>Bonus: ✅</td>
   </tr>
   <tr>
     <td>Push_Swap</td>
-    <td>96/100 ✅ Bonus: ❎ </td>
+    <td>96/100 ✅</td>
+    <td>Bonus: ❎</td>
   </tr>
   <tr>
     <td>Minitalk</td>
-    <td>125/100 ✅ Bonus: ✅ </td>
+    <td>125/100 ✅</td>
+    <td>Bonus: ✅</td>
   </tr>
   <tr>
     <td>So_Long</td>
-    <td>123/100 ✅ Bonus: ✅ </td>
+    <td>123/100 ✅</td>
+    <td>Bonus: ✅</td>
   </tr>
   <tr>
     <td>Libft</td>
-    <td>125/100 ✅ Bonus: ✅ </td>
+    <td>125/100 ✅</td>
+    <td>Bonus: ✅</td>
   </tr>
   <tr>
     <td>Minishell w/<a href="https://github.com/jariza-o">jariza-o</a></td>
-    <td>96/100 ✅ Bonus: ❎ </td>
+    <td>96/100 ✅</td>
+    <td>Bonus: ❎</td>
   </tr>
   <tr>
     <td>Philosophers</td>
-    <td>100/100 ✅ Bonus: ❎ </td>
+    <td>100/100 ✅</td>
+    <td>Bonus: ❎</td>
   </tr>
 </table>
 <!--
