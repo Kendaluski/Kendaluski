@@ -1,5 +1,5 @@
+<span text-align="center"> [![jjaen-mo's 42 stats](https://badge.mediaplus.ma/kettlebells/jjaen-mo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
 <body text-align="center" padding="auto">
-  <span text-align="center"> [![jjaen-mo's 42 stats](https://badge.mediaplus.ma/kettlebells/jjaen-mo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
   <table>
     <tr>
       <td>Libft</td>
