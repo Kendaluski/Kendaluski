@@ -52,7 +52,7 @@
       <td>Bonus: ❎</td>
     </tr>
       <tr>
-      <td>cub3D</td>
+      <td>cub3D w/<a href="https://github.com/Nol3">Nol3(alcarden)</a></td>
       <td>100/100 ✅</td>
       <td>Bonus: ❎</td>
     </tr>
