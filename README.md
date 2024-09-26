@@ -51,6 +51,11 @@
       <td>100/100 ✅</td>
       <td>Bonus: ❎</td>
     </tr>
+      <tr>
+      <td>cub3D</td>
+      <td>100/100 ✅</td>
+      <td>Bonus: ❎</td>
+    </tr>
   </table>
 </body>
 <!--
