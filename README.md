@@ -56,6 +56,10 @@
       <td>110/100 ✅</td>
       <td>Bonus: ✅</td>
     </tr>
+    <tr>
+      <td colspan="2">CPP00 - CPP09</td>
+      <td>100/100 ✅</td>
+    </tr>
   </table>
 </body>
 <!--
