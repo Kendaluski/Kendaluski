@@ -7,9 +7,6 @@
       <td>Bonus: ✅</td>
     </tr>
     <tr>
-      <td colspan="3">A library that contains a lot of functions that are useful</td>
-    </tr>
-    <tr>
       <td>FT_Printf</td>
       <td>100/100 ✅</td>
       <td>Bonus: ❎</td>
