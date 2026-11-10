@@ -1,4 +1,4 @@
-<span align="center"> [![jjaen-mo's 42 stats](https://badge.mediaplus.ma/kettlebells/jjaen-mo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) </span>
+<span align="center"> [![jojaen-m's 42 stats](https://badge.mediaplus.ma/darkblue/jojaen-m)](https://github.com/oakoudad/badge42) </span>
 <body align="center" padding="100px">
   <table>
     <tr>
